@@ -1,0 +1,10 @@
+{
+  "hp" : {"Knight" : 770, "Warrior" : 770, "Paladin" : 770, "Archer" : 700, "Huntress" : 700, "Rogue" : 720, "Trickster" : 720, "Assassin" : 720, "Wizard" : 670, "Necromancer" : 670, "Mystic" : 670, "Ninja" : 720, "Samurai" : 720, "Sorcerer" : 670, "Priest" : 670},
+  "mp" : {"Knight" : 252, "Warrior" : 252, "Paladin" : 252, "Archer" : 252, "Huntress" : 252, "Rogue" : 252, "Trickster" : 252, "Assassin" : 252, "Wizard" : 385, "Necromancer" : 385, "Mystic" : 385, "Ninja" : 252, "Samurai" : 252, "Sorcerer" : 385, "Priest" : 385},
+  "attack" : {"Knight" : 50, "Warrior" : 75, "Paladin" : 50, "Archer" : 75, "Huntress" : 75, "Rogue" : 50, "Trickster" : 65, "Assassin" : 60, "Wizard" : 75, "Necromancer" : 75, "Mystic" : 60,"Ninja" : 70, "Samurai" : 75, "Sorcerer" : 70, "Priest" : 50},
+  "defense" : {"Knight" : 40, "Warrior" : 25, "Paladin" : 30, "Archer" : 25, "Huntress" : 25, "Rogue" : 25, "Trickster" : 25, "Assassin" : 25, "Wizard" : 25, "Necromancer" : 25, "Mystic" : 25,"Ninja" : 25, "Samurai" : 30, "Sorcerer" : 25, "Priest" : 25},
+  "speed" : {"Knight" : 50, "Warrior" : 50, "Paladin" : 55, "Archer" : 50, "Huntress" : 50, "Rogue" : 75, "Trickster" : 75, "Assassin" : 75, "Wizard" : 50, "Necromancer" : 50, "Mystic" : 60,"Ninja" : 60, "Samurai" : 55, "Sorcerer" : 60, "Priest" : 55},
+  "dexterity" : {"Knight" : 50, "Warrior" : 50, "Paladin" : 45, "Archer" : 50, "Huntress" : 50, "Rogue" : 75, "Trickster" : 75, "Assassin" : 75, "Wizard" : 75, "Necromancer" : 60, "Mystic" : 55,"Ninja" : 70, "Samurai" : 50, "Sorcerer" : 60, "Priest" : 55},
+  "vitality" : {"Knight" : 75, "Warrior" : 75, "Paladin" : 40, "Archer" : 40, "Huntress" : 40, "Rogue" : 40, "Trickster" : 40, "Assassin" : 50, "Wizard" : 40, "Necromancer" : 30, "Mystic" : 40,"Ninja" : 60, "Samurai" : 60, "Sorcerer" : 75, "Priest" : 40},
+  "wisdom" : {"Knight" : 50, "Warrior" : 50, "Paladin" : 75, "Archer" : 50, "Huntress" : 50, "Rogue" : 50, "Trickster" : 60, "Assassin" : 60, "Wizard" : 60, "Necromancer" : 75, "Mystic" : 75,"Ninja" : 70, "Samurai" : 60, "Sorcerer" : 60, "Priest" : 75}
+}
